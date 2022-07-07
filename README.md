@@ -1,7 +1,74 @@
-# Oblivion - An Atronach Forge Overhaul
- 
-Oblivion is a complete overhaul of Skyrim's Atronach Forge, designed to expand its functionality. The mod adds many new and useful recipes, as well as new exclusive spells, made to fit for conjurer characters. It also edits the required ingredients, to be more sensible with the summoned item, and using the forge grants a bit of Conjuration experience. Finally, there is an high chance to find recipes from Urag, and the ones found in loot are much more frequent than vanilla.
 
-Oblivion is designed to be a Mysticism addon.
+# Oblivion   [![Badge Kofi]][Kofi]
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V54B3PC)
+*An **[Mysticism]** addon that overhauls **Atronach Forges**.*
+
+<br>
+
+## Features
+
+-   Many new & useful recipes as well as exclusive <br>
+    spells made to fit for conjurer characters.
+
+-   Adjusts the required ingredients, to be <br>
+    more sensible with summoned items.
+
+-   Using forges will grant you a small <br>
+    amount of Conjuration experience.
+
+-   Recipes are likely to be found from Urags.
+
+-   Recipes can be more frequently found in loot.
+
+<br>
+<br>
+
+<div align = center>
+
+<img
+    src = 'Resources/A.png'
+    width = 300
+/>    
+<img
+    src = 'Resources/B.png'
+    width = 300
+/>
+
+
+<img
+    src = 'Resources/C.png'
+    width = 300
+/>    
+<img
+    src = 'Resources/D.png'
+    width = 300
+/>
+
+<img
+    src = 'Resources/E.png'
+    width = 300
+/>
+
+</div>
+
+<br>
+
+
+<!---------------------------------------------------------------->
+
+[Mysticism]: https://github.com/simonmagus616/mysticism
+[Kofi]: https://ko-fi.com/V7V54B3PC
+
+
+<!--------------------------[ Images ]---------------------------->
+
+[Preview A]: Resources/A.png
+[Preview B]: Resources/B.png
+[Preview C]: Resources/C.png
+[Preview D]: Resources/D.png
+[Preview E]: ResourcesE.png
+
+
+<!--------------------------[ Badges ]---------------------------->
+
+[Badge Kofi]: Resources/Kofi.svg
